@@ -46,3 +46,15 @@ button
   margin: 15px;
   border: 1px solid white;
 }
+
+h1
+{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: goldenrod;
+}
+
+h2
+{
+  font-family: fantasy;
+  font-family: monospace;
+}
